@@ -1,0 +1,13 @@
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bin\Release\resources.pri
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bin\Release\AppxManifest.xml
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bin\Release\Prowler.build.appxrecipe
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\priconfig.xml.intermediate
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\layout.resfiles.intermediate
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\resources.resfiles.intermediate
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\pri.resfiles.intermediate
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\priconfig.xml
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\layout.resfiles
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\resources.resfiles
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\pri.resfiles
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\LanguageQualifiers.txt
+F:\C\Users\Will\Documents\School\Java and HTML5\Prowler\Prowler\bld\Release\ProjectArchitectures.txt

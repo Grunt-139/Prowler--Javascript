@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Prowler</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+
+    <!-- Prowler references -->
+    <link href="css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/objects.js"></script>
+    <script src="/js/requestAnimationFramePolyfill.js"></script>
+    <script src="/js/collisionDetection.js"></script>
+    <script src="/js/enemy.js"></script>
+    <script src="/js/player.js"></script>
+    <script src="/js/mapObject.js"></script>
+
+</head>
+<body>
+    <div id="game">
+        
+            <div id="menuItems">
+                <h1>Prowler</h1>
+                <p><a class="button" id="playButton">Play</a></p>
+                <p><a class ="button" id="howToButton">How To</a></p>
+                <p><a class="button" id="creditsButton">Credits</a></p>
+                
+            </div>
+            <div id="playGame">
+                <canvas id="gameUICanvas" width ="600" height="480"></canvas>
+                <canvas id="gameCanvas" width="600" height="480"></canvas>
+                <!--Sounds-->
+                <audio id="music"><source src="../music/bgMusic.mp3" type ="audio/mp3" loop></audio>
+                <audio id="ambience"><source src="../music/outsideBG.mp3" type ="audio/mp3" loop></audio>
+                <audio id="gunShot"><source src="../music/gunShot.mp3" type ="audio/mp3"></audio>
+                <audio id="hit"><source src="../music/bulletHit.mp3" type ="audio/mp3"></audio>
+                <audio id="monsterAttack"><source src="../music/monsterAttack.mp3" type ="audio/mp3"></audio>
+                <audio id="monsterDeath1"><source src="../music/monsterDeath1.mp3" type ="audio/mp3"></audio>
+                <audio id="monsterDeath2"><source src="../music/monsterDeath2.mp3" type ="audio/mp3"></audio>
+                <audio id="monsterDamage"><source src="../music/monsterHit.mp3" type ="audio/mp3"></audio>
+                <audio id="playerDamage"><source src="../music/playerHit.mp3" type ="audio/mp3"></audio>
+                <audio id="playerDeath"><source src="../music/playerDeath.mp3" type ="audio/mp3"></audio>
+
+            </div>
+            <div id="howTo">
+               <img src="../images/howTo.png" />
+            </div>
+            <div id="credits">
+                <h1><u>Credits</u></h1>
+                <p>Lead Programmer: Will Stieh</p>
+                <p>Lead Designer: Will Stieh</p>
+                <p>Lead Artist: Will Stieh</p>
+            </div>
+            <p><a class="button" id="backButton">Back</a></p>
+        </div>
+</body>
+</html>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>L</Machine>
+    <WindowsUser>will</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>88cf6ded-b9e7-4102-bbee-a9bc38acab18</PackageIdentityName>
+    <IntermediateOutputPath>E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D226E10DA902E6602D1EAA83BC33623200265BE6FDFD0AF4C1C3AF1690DD7470</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>88cf6ded-b9e7-4102-bbee-a9bc38acab18_1.0.0.0_neutral__q3t2zk3gf2dgy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>88cf6ded-b9e7-4102-bbee-a9bc38acab18_q3t2zk3gf2dgy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>88cf6ded-b9e7-4102-bbee-a9bc38acab18</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Will</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-02T03:28:55.449</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\packages\MonoGame.Binaries.3.2.0\build\netcore\\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2014-10-21T02:43:09.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-06-07T20:36:28.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\howTo.png">
+      <PackagePath>images\howTo.png</PackagePath>
+      <Modified>2013-06-07T20:35:26.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\largeLogo.png">
+      <PackagePath>images\largeLogo.png</PackagePath>
+      <Modified>2013-06-07T15:32:21.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\logoSmall.png">
+      <PackagePath>images\logoSmall.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-07T15:12:22.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\logoStore.png">
+      <PackagePath>images\logoStore.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-07T15:16:22.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\pause.png">
+      <PackagePath>images\pause.png</PackagePath>
+      <Modified>2013-06-07T02:37:56.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\rain.png">
+      <PackagePath>images\rain.png</PackagePath>
+      <Modified>2013-06-07T05:35:56.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\snow.png">
+      <PackagePath>images\snow.png</PackagePath>
+      <Modified>2013-06-07T04:41:14.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-07T15:51:23.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\TileSheet.png">
+      <PackagePath>images\TileSheet.png</PackagePath>
+      <Modified>2013-06-05T00:59:58.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\wideLogo.png">
+      <PackagePath>images\wideLogo.png</PackagePath>
+      <Modified>2013-06-07T15:23:54.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\images\wideLogo.scale-80.png">
+      <PackagePath>images\wideLogo.scale-80.png</PackagePath>
+      <Modified>2013-06-07T15:23:54.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\largeLogo.scale-80.png">
+      <PackagePath>largeLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-07T15:32:21.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\wideLogo.scale-80.png">
+      <PackagePath>wideLogo.scale-80.png</PackagePath>
+      <Modified>2013-06-07T15:23:54.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\collisionDetection.js">
+      <PackagePath>js\collisionDetection.js</PackagePath>
+      <Modified>2013-06-05T19:48:30.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-10-25T18:45:33.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\enemy.js">
+      <PackagePath>js\enemy.js</PackagePath>
+      <Modified>2013-06-07T20:07:25.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\mapObject.js">
+      <PackagePath>js\mapObject.js</PackagePath>
+      <Modified>2013-06-06T22:43:12.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\objects.js">
+      <PackagePath>js\objects.js</PackagePath>
+      <Modified>2013-06-06T15:17:18.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\player.js">
+      <PackagePath>js\player.js</PackagePath>
+      <Modified>2013-06-07T19:29:12.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\js\requestAnimationFramePolyfill.js">
+      <PackagePath>js\requestAnimationFramePolyfill.js</PackagePath>
+      <Modified>2013-05-22T17:34:41.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-06-07T20:37:42.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\bgMusic.mp3">
+      <PackagePath>Music\bgMusic.mp3</PackagePath>
+      <Modified>2013-06-07T04:23:45.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\bulletHit.mp3">
+      <PackagePath>Music\bulletHit.mp3</PackagePath>
+      <Modified>2013-04-10T18:37:18.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\gunShot.mp3">
+      <PackagePath>Music\gunShot.mp3</PackagePath>
+      <Modified>2013-06-07T05:58:10.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\outsideBG.mp3">
+      <PackagePath>Music\outsideBG.mp3</PackagePath>
+      <Modified>2013-06-07T06:02:18.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\playerHit.mp3">
+      <PackagePath>Music\playerHit.mp3</PackagePath>
+      <Modified>2013-06-07T04:20:16.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\playerDeath.mp3">
+      <PackagePath>Music\playerDeath.mp3</PackagePath>
+      <Modified>2013-06-07T04:21:45.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\monsterAttack.mp3">
+      <PackagePath>Music\monsterAttack.mp3</PackagePath>
+      <Modified>2013-06-07T04:19:29.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\monsterDeath2.mp3">
+      <PackagePath>Music\monsterDeath2.mp3</PackagePath>
+      <Modified>2013-06-07T04:16:48.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\monsterDeath1.mp3">
+      <PackagePath>Music\monsterDeath1.mp3</PackagePath>
+      <Modified>2013-06-07T04:17:10.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\Music\monsterHit.mp3">
+      <PackagePath>Music\monsterHit.mp3</PackagePath>
+      <Modified>2013-06-07T04:18:45.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Documents\School\JavaScript and HTML5\Prowler\Prowler\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-02T03:28:55.168</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
